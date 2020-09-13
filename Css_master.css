@@ -1,0 +1,27 @@
+
+h1{
+  font-family: "Bungee Shade";
+  text-align: center;
+}
+h2{
+  font-family: "Bungee Shade";
+  text-align: center;
+}
+
+p{
+  color: #FDFFFC;
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+body{
+  font-family: 'Montserrat';
+  color: #FDFFFC;
+  text-align: center;
+  background-color: #011627;
+  border: 60px solid #2EC4B6;
+  border-top: 0px;
+  /*border-bottom: 0px;*/
+  margin: 0px;
+}
